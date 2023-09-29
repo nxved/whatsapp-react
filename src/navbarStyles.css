@@ -1,0 +1,28 @@
+/* navbarStyles.css */
+
+nav {
+   background-color: #3498db; /* Blue background color */
+   padding: 15px;
+ }
+ 
+ ul {
+   list-style-type: none;
+   padding: 0;
+ }
+ 
+ li {
+   display: inline;
+   margin-right: 15px;
+ }
+ 
+ li a {
+   color: white;
+   text-decoration: none;
+   padding: 10px 15px;
+ }
+ 
+ li a:hover {
+   background-color: #2980b9; /* Darker blue on hover */
+   border-radius: 5px;
+ }
+ 
